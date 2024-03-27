@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>The RickPublic</title>
+  </head>
+  <body>
+    <h3 class="outside-title">RICK PUBLIC</h3>
+    <div class="whole-wrapper">
+      <h2 class="inside-title">Rick C137</h2>
+      <h3 class="inside-subtitle">"Take this in... This is god."</h3>
+    </div>
+  </body>
+</html>

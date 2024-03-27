@@ -1,0 +1,19 @@
+body {
+    background-color: #111;
+}
+
+.outside-title {
+    color: #0aff00;
+}
+
+.whole-wrapper {
+    border: 1px solid #0aff00;
+}
+
+.inside-title {
+    color: lightblue;
+}
+
+.inside-subtitle {
+    color: #0aff00;
+}

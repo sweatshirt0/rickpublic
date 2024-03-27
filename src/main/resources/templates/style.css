@@ -1,0 +1,24 @@
+body {
+    background-color: #111;
+    font-family: monospace;
+}
+
+.outside-title {
+    position: relative;
+    top: 15px;
+    color: #0aff00;
+}
+
+.whole-wrapper {
+    position: relative;
+    border: 1px solid #0aff00;
+    top: 5px;
+}
+
+.inside-title {
+    color: lightblue;
+}
+
+.inside-subtitle {
+    color: #0aff00;
+}
