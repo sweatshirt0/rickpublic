@@ -17,8 +17,10 @@ body {
 
 .inside-title {
     color: lightblue;
+    text-align: center
 }
 
 .inside-subtitle {
     color: #0aff00;
+    text-align: center;
 }
